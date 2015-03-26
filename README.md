@@ -17,3 +17,5 @@ In order to access the virtual machine web server from the host machine you have
 http://localhost:8080/
 
 That should lead you to the example ZF2 application.
+
+For more information about available users take a look at [the Learn ZF2 code repository](https://github.com/slaff/learnzf2#application-users).
