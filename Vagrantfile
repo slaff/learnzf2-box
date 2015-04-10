@@ -3,8 +3,8 @@
 
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
-VM_DISPLAY_NAME = "LearnZF2-Dev-Box"
-VM_HOSTNAME = "learnzf2.dev.box"
+VM_DISPLAY_NAME = "LearnZF2-Dev-Box PHP7"
+VM_HOSTNAME = "learnzf2-php7.dev.box"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.hostname = VM_HOSTNAME
