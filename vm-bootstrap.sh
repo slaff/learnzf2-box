@@ -7,7 +7,7 @@ sudo apt-get install -y git \
 		   libcurl4-openssl-dev \
                    libmcrypt-dev \
                    libxml2-dev \
-                   libjpeg-dev \
+                   libjpeg62-dev \
                    libfreetype6-dev \
                    libmysqlclient-dev \
                    libt1-dev \
